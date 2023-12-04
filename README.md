@@ -1,6 +1,6 @@
 # WebApp
-Category List![[screenshots/Screenshots_NetCoreMVC (3).jpg]]
-Modify![[screenshots/Screenshots_NetCoreMVC (4).jpg]]
-Delete![[screenshots/Screenshots_NetCoreMVC (2).jpg]]
+Category List![[Screenshots_NetCoreMVC (3).jpg]](screenshots/fitness_channel.jpg)
+Modify![[Screenshots_NetCoreMVC (4).jpg]](screenshots/fitness_channel.jpg)
+Delete![[Screenshots_NetCoreMVC (2).jpg]](screenshots/fitness_channel.jpg)
 Update Successfully
-![[screenshots/Screenshots_NetCoreMVC (1).jpg]]
+![[Screenshots_NetCoreMVC (1).jpg]](screenshots/fitness_channel.jpg)
